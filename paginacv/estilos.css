@@ -1,0 +1,36 @@
+
+body {
+    background-color: #d36363; /* Color de fondo gris claro */
+}
+
+h1 {
+    color: #ffffff; /* Blanco */
+}
+
+
+
+ul {
+    color: #ffffff; /* Blanco */
+}
+
+/* Estilo del pie de página */
+footer {
+    background-color: #f10f1a; /* Verde claro */
+    padding: 20px;
+}
+
+h2 {
+    color: #ffffff; /* Blanco */
+}
+
+/* Estilos para los íconos de redes sociales */
+.social-icons img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    transition: transform 0.3s ease-in-out;
+}
+
+.social-icons img:hover {
+    transform: scale(1.2);
+}
